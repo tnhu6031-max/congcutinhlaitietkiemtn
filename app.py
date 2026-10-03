@@ -221,4 +221,3 @@ st.caption(
     "Lưu ý: Công cụ sử dụng phương pháp tính lãi đơn trên số tiền gốc, "
     "chưa tính trường hợp lãi được nhập gốc để tái tục."
 )
-```
